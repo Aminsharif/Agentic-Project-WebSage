@@ -1,0 +1,16 @@
+User: what is phidata
+Bot: <think>
+Okay, so I need to figure out what Phidata is based on the provided context. Let me read through the context carefully.
+
+The context starts with a home page for Phidata, which is now called Agno. It mentions that Phidata is a framework for building multi-modal agents and workflows. So, Phidata allows users to create agents and teams of agents to solve problems.
+
+Looking further, there are examples of creating agents. For instance, a web agent uses OpenAI's GPT-4o model and DuckDuckGo as a tool. Another example is a finance agent that uses YFinanceTools. These agents can be combined into a team, which shows that Phidata supports multi-agent orchestration.
+
+The key features listed include being simple and elegant, powerful and flexible, multi-modal by default, and having a beautiful Agent UI for interaction. It also mentions built-in RAG (Retrieval-Augmented Generation), structured outputs, reasoning, and monitoring and debugging.
+
+There are installation instructions, such as using pip to install Phidata, and examples of setting up virtual environments for Mac and Windows. The examples provided show how to create agents in a few lines of code, which emphasizes the simplicity and elegance of Phidata.
+
+So, putting it all together, Phidata is a framework that allows users to build agents and workflows. These agents can work together, use various tools and models, and interact via a user-friendly interface. It's designed to be flexible and powerful, making it easy to automate intelligent tasks.
+</think>
+
+Phidata, now known as Agno, is a framework designed for building multi-modal agents and workflows. It enables the creation of agents that can work individually or in teams to solve complex tasks. These agents utilize various tools and models, such as OpenAI's GPT-4o and DuckDuckGo, and can interact through a user-friendly interface. Phidata is notable for its simplicity, flexibility, and built-in features like RAG, structured outputs, and monitoring, making it a powerful tool for automating intelligent tasks.
